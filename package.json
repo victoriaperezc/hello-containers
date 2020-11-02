@@ -11,6 +11,7 @@
     "nconf": "*",
     "validator": "*",
     "jquery": "*",
-    "request-json": "*"
+    "request-json": "*",
+    "hellojs": "1.18.4"
   }
 }
