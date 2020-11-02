@@ -12,7 +12,7 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
-FROM node:alpine
+FROM node:12.2.0-alpine
 LABEL maintainer="philippe_mulet@fr.ibm.com"
 
 # hadolint ignore=DL3017
